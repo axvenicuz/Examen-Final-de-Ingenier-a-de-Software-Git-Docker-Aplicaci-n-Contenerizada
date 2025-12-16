@@ -40,3 +40,4 @@ docker build -t tp-final .
 docker run -p 8080:80 tp-final
 
 ## DOCUMENTACION EN IMAGENES 
+imgen de docker en los archivos 
