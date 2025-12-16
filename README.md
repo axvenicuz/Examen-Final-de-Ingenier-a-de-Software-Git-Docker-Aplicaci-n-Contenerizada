@@ -13,7 +13,7 @@ Consiste en una aplicación web mínima desarrollada en HTML, versionada con Git
 ---
 
 ## Descripción del proyecto
-La aplicación es una página web simple que muestra el nombre y legajo del alumno.
+La aplicación es una página web simple que muestra el nombre y DNI del alumno.
 El objetivo del trabajo es demostrar el uso de:
 - Proyecto local
 - Git y control de versiones
@@ -39,3 +39,4 @@ Comandos completos para ejecutar todo
 docker build -t tp-final .
 docker run -p 8080:80 tp-final
 
+## DOCUMENTACION EN IMAGENES 
