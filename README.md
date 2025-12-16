@@ -7,7 +7,7 @@ Consiste en una aplicación web mínima desarrollada en HTML, versionada con Git
 ---
 
 ## Datos del alumno
-- Nombre: Nicolás Pauwels
+- Nombre: Nicolás Agustin Pauwels
 - dni 42540375
 
 ---
